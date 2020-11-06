@@ -1,0 +1,35 @@
+
+<html>
+<head>
+ <title>Images</title>
+</head>
+<body>
+ <h1>
+ <img src="https://www.veed.me/wp-content/uploads/codecycle-logo-animation.gif"
+ alt="From A to Zucchini"width="359" height="194"/>
+ </h1>
+ <figure>
+ <img src="https://assets.wsimgs.com/wsimgs/ab/images/dp/recipe/202040/0001/img11l.jpg"
+ alt="Chocolate Islands"
+ title="Chocolate Islands Individual Cakes"width="259" height="194" />
+ <p>
+ <figcaption>
+ This recipe for individual chocolate
+ cakes is so simple and so delectable!
+ </figcaption>
+ </p>
+ </figure>
+ <h3>More Recipes:</h3>
+ <p>
+ <img src="https://thebeachhousekitchen.com/wp-content/uploads/2018/05/Lemon-Posset-New-1-of-1-2.jpg"
+ alt="Lemon Posset"
+ title="Lemon Posset Dessert" width="259" height="194"/>
+ <img src="https://www.fifteenspatulas.com/wp-content/uploads/2011/03/Roasted-Brussel-Sprouts-Fifteen-Spatulas-2-640x959.jpg"
+ alt="Roasted Brussel Sprouts"
+ title="Roasted Brussel Sprouts Side Dish" width="259" height="194" />
+ <img src="https://mk0laaloosh86wjl60bl.kinstacdn.com/wp-content/uploads/2015/07/Chocolate-Zucchini-Cake-770x513.jpg"
+ alt="Zucchini Cake"
+ title="Zucchini Cake No Frosting"width="259" height="194" />
+ </p>
+</body>
+</html>
